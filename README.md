@@ -17,11 +17,12 @@ Government IT projects tend to be heavyweight, resource intensive, and typically
  
 ## Speakers
  
-* Ben Balter, Government Evangelist, GitHub 
+* Ben Balter, Government Evangelist, GitHub
+    * government@github.com
 * Matthew Burton, Former Deputy CIO, CFPB
 * Erie Meyer, Senior Advisor, US CTO
 * Samantha Simpson, Product Director, CFPB
 
 ## More resources
 
-* http://government.github.com
+* https://government.github.com
