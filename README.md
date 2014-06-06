@@ -21,3 +21,7 @@ Government IT projects tend to be heavyweight, resource intensive, and typically
 * Matthew Burton, Former Deputy CIO, CFPB
 * Erie Meyer, Senior Advisor, US CTO
 * Samantha Simpson, Product Director, CFPB
+
+## More resources
+
+* http://government.github.com
